@@ -62,6 +62,7 @@ Here’s the showcase of apps submitted for **CommunityKit 2025**! 🎉
 |------|-----|-------------|-----------|-------|
 | <img src="https://github.com/community-kit/CommunityKit-Release-Feature-List/blob/main/Resources/Pediapal/pediapal.png" width="128" height="128" alt="Pediapal icon"> | **Pediapal** | A child health monitor that helps parents track vitals, medications, and routines. | ![iOS](https://img.shields.io/badge/iOS-blue?logo=apple&logoColor=white) | [App Store](https://apps.apple.com/app/id6739232517) · [Website](https://pediapal.app) |
 | <img src="https://github.com/community-kit/CommunityKit-Release-Feature-List/blob/main/Resources/PDR/pdr-med.jpeg" width="128" height="128" alt="Please Don't Rain icon"> | **Please Don't Rain** | Please Don’t Rain is a fun, convenient way to track whether weather will affect a day that’s important to you. | ![iOS](https://img.shields.io/badge/iOS-blue?logo=apple&logoColor=white) | [App Store](https://apps.apple.com/us/app/please-dont-rain/id6444577668) · [Website](https://bsky.app/profile/pleasedontrain.com) |
+| <img src="https://github.com/community-kit/CommunityKit-Release-Feature-List/blob/main/Resources/Nunch/nunch_app_icon.png" width="128" height="128" alt="Nunch icon"> | **Nunch** | The simplest, most delightful way to track your calories and macros. | ![iOS](https://img.shields.io/badge/iOS-blue?logo=apple&logoColor=white) | [App Store](https://apps.apple.com/app/id6670322395) · [Website](https://nunch.app) |
 
 ---
 
